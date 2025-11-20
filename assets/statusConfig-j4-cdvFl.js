@@ -1,1 +1,0 @@
-const e=Object.freeze({open:"Open",in_progress:"In Progress",completed:"Done",cancelled:"Cancelled"}),c=Object.freeze({high:"● High",medium:"● Medium",normal:"● Normal",low:"● Low"});export{c as P,e as S};
